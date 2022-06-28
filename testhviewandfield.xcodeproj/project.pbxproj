@@ -16,8 +16,6 @@
 		4239296D28657CF100CD33C0 /* testhviewandfieldTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4239296C28657CF100CD33C0 /* testhviewandfieldTests.swift */; };
 		4239297728657CF100CD33C0 /* testhviewandfieldUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4239297628657CF100CD33C0 /* testhviewandfieldUITests.swift */; };
 		4239297928657CF100CD33C0 /* testhviewandfieldUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4239297828657CF100CD33C0 /* testhviewandfieldUITestsLaunchTests.swift */; };
-		423929862865B6E000CD33C0 /* GroupOverlayView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 423929852865B6E000CD33C0 /* GroupOverlayView.swift */; };
-		423929882865B7DE00CD33C0 /* PassthroughStackView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 423929872865B7DE00CD33C0 /* PassthroughStackView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,8 +49,6 @@
 		4239297228657CF100CD33C0 /* testhviewandfieldUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = testhviewandfieldUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		4239297628657CF100CD33C0 /* testhviewandfieldUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = testhviewandfieldUITests.swift; sourceTree = "<group>"; };
 		4239297828657CF100CD33C0 /* testhviewandfieldUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = testhviewandfieldUITestsLaunchTests.swift; sourceTree = "<group>"; };
-		423929852865B6E000CD33C0 /* GroupOverlayView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GroupOverlayView.swift; sourceTree = "<group>"; };
-		423929872865B7DE00CD33C0 /* PassthroughStackView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PassthroughStackView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -110,8 +106,6 @@
 				4239295E28657CF100CD33C0 /* Assets.xcassets */,
 				4239296028657CF100CD33C0 /* LaunchScreen.storyboard */,
 				4239296328657CF100CD33C0 /* Info.plist */,
-				423929852865B6E000CD33C0 /* GroupOverlayView.swift */,
-				423929872865B7DE00CD33C0 /* PassthroughStackView.swift */,
 			);
 			path = testhviewandfield;
 			sourceTree = "<group>";
@@ -267,8 +261,6 @@
 				4239295A28657CF000CD33C0 /* ViewController.swift in Sources */,
 				4239295628657CF000CD33C0 /* AppDelegate.swift in Sources */,
 				4239295828657CF000CD33C0 /* SceneDelegate.swift in Sources */,
-				423929882865B7DE00CD33C0 /* PassthroughStackView.swift in Sources */,
-				423929862865B6E000CD33C0 /* GroupOverlayView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
